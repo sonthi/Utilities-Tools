@@ -1,0 +1,45 @@
+E:\Project\Utilities Tool\Utilities Tool\bin\Debug\Utilities Tool.exe.config
+E:\Project\Utilities Tool\Utilities Tool\bin\Debug\Utilities Tool.exe.manifest
+E:\Project\Utilities Tool\Utilities Tool\bin\Debug\Utilities Tool.application
+E:\Project\Utilities Tool\Utilities Tool\bin\Debug\Utilities Tool.exe
+E:\Project\Utilities Tool\Utilities Tool\bin\Debug\Utilities Tool.pdb
+E:\Project\Utilities Tool\Utilities Tool\bin\Debug\MaterialDesignColors.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Debug\MaterialDesignColors.pdb
+E:\Project\Utilities Tool\Utilities Tool\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Project\Utilities Tool\Utilities Tool\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Project\Utilities Tool\Utilities Tool\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\Project\Utilities Tool\Utilities Tool\obj\Debug\Utilities Tool.csproj.AssemblyReference.cache
+E:\Project\Utilities Tool\Utilities Tool\obj\Debug\Utilities Tool.csproj.SuggestedBindingRedirects.cache
+E:\Project\Utilities Tool\Utilities Tool\obj\Debug\MainWindow.g.cs
+E:\Project\Utilities Tool\Utilities Tool\obj\Debug\App.g.cs
+E:\Project\Utilities Tool\Utilities Tool\obj\Debug\Utilities Tool_MarkupCompile.cache
+E:\Project\Utilities Tool\Utilities Tool\obj\Debug\Utilities Tool_MarkupCompile.lref
+E:\Project\Utilities Tool\Utilities Tool\obj\Debug\App.baml
+E:\Project\Utilities Tool\Utilities Tool\obj\Debug\MainWindow.baml
+E:\Project\Utilities Tool\Utilities Tool\obj\Debug\Utilities Tool.g.resources
+E:\Project\Utilities Tool\Utilities Tool\obj\Debug\Utilities_Tool.Properties.Resources.resources
+E:\Project\Utilities Tool\Utilities Tool\obj\Debug\Utilities Tool.csproj.GenerateResource.cache
+E:\Project\Utilities Tool\Utilities Tool\obj\Debug\Utilities Tool.csproj.CoreCompileInputs.cache
+E:\Project\Utilities Tool\Utilities Tool\obj\Debug\Utilities Tool.TrustInfo.xml
+E:\Project\Utilities Tool\Utilities Tool\obj\Debug\Utilities Tool.exe.manifest
+E:\Project\Utilities Tool\Utilities Tool\obj\Debug\Utilities Tool.application
+E:\Project\Utilities Tool\Utilities Tool\obj\Debug\Utilities Tool.csproj.CopyComplete
+E:\Project\Utilities Tool\Utilities Tool\obj\Debug\Utilities Tool.exe
+E:\Project\Utilities Tool\Utilities Tool\obj\Debug\Utilities Tool.pdb

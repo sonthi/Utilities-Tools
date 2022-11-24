@@ -1,0 +1,45 @@
+E:\Project\Utilities Tool\Utilities Tool\bin\Release\Utilities Tool.exe.config
+E:\Project\Utilities Tool\Utilities Tool\bin\Release\Utilities Tool.exe.manifest
+E:\Project\Utilities Tool\Utilities Tool\bin\Release\Utilities Tool.application
+E:\Project\Utilities Tool\Utilities Tool\bin\Release\Utilities Tool.exe
+E:\Project\Utilities Tool\Utilities Tool\bin\Release\Utilities Tool.pdb
+E:\Project\Utilities Tool\Utilities Tool\bin\Release\MaterialDesignColors.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Release\MaterialDesignThemes.Wpf.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Release\Xceed.Wpf.AvalonDock.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Release\Xceed.Wpf.Toolkit.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Release\MaterialDesignColors.pdb
+E:\Project\Utilities Tool\Utilities Tool\bin\Release\MaterialDesignThemes.Wpf.pdb
+E:\Project\Utilities Tool\Utilities Tool\bin\Release\MaterialDesignThemes.Wpf.xml
+E:\Project\Utilities Tool\Utilities Tool\bin\Release\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Release\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\Project\Utilities Tool\Utilities Tool\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\Project\Utilities Tool\Utilities Tool\obj\Release\Utilities Tool.csproj.AssemblyReference.cache
+E:\Project\Utilities Tool\Utilities Tool\obj\Release\Utilities Tool.csproj.SuggestedBindingRedirects.cache
+E:\Project\Utilities Tool\Utilities Tool\obj\Release\MainWindow.g.cs
+E:\Project\Utilities Tool\Utilities Tool\obj\Release\App.g.cs
+E:\Project\Utilities Tool\Utilities Tool\obj\Release\Utilities Tool_MarkupCompile.cache
+E:\Project\Utilities Tool\Utilities Tool\obj\Release\Utilities Tool_MarkupCompile.lref
+E:\Project\Utilities Tool\Utilities Tool\obj\Release\App.baml
+E:\Project\Utilities Tool\Utilities Tool\obj\Release\MainWindow.baml
+E:\Project\Utilities Tool\Utilities Tool\obj\Release\Utilities Tool.g.resources
+E:\Project\Utilities Tool\Utilities Tool\obj\Release\Utilities_Tool.Properties.Resources.resources
+E:\Project\Utilities Tool\Utilities Tool\obj\Release\Utilities Tool.csproj.GenerateResource.cache
+E:\Project\Utilities Tool\Utilities Tool\obj\Release\Utilities Tool.csproj.CoreCompileInputs.cache
+E:\Project\Utilities Tool\Utilities Tool\obj\Release\Utilities Tool.TrustInfo.xml
+E:\Project\Utilities Tool\Utilities Tool\obj\Release\Utilities Tool.exe.manifest
+E:\Project\Utilities Tool\Utilities Tool\obj\Release\Utilities Tool.application
+E:\Project\Utilities Tool\Utilities Tool\obj\Release\Utilities Tool.csproj.CopyComplete
+E:\Project\Utilities Tool\Utilities Tool\obj\Release\Utilities Tool.exe
+E:\Project\Utilities Tool\Utilities Tool\obj\Release\Utilities Tool.pdb
